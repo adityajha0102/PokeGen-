@@ -1,2 +1,1 @@
-# PokeGen-
-Bringing Your Pokémon Imagination to Life
+## Project PokeGen
